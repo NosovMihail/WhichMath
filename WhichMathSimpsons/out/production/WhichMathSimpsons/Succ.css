@@ -1,0 +1,11 @@
+.chart-symbol{
+        -fx-background-radius: 3px;
+        -fx-padding: 3px;
+}
+
+.chart-symbol[name]
+
+.chart > .chart-content > .chart-plot-background{
+    -fx-background-image: url(https://rule34.xxx//samples/4112/sample_60f0b45b050978fd2341f532db85ef08.jpg?4668406);
+    -fx-background-size: cover;
+}
